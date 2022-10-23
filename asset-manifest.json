@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FastFood-LandingPage/static/css/main.7d488bb9.css",
+    "main.js": "/FastFood-LandingPage/static/js/main.deaebba2.js",
+    "index.html": "/FastFood-LandingPage/index.html",
+    "main.7d488bb9.css.map": "/FastFood-LandingPage/static/css/main.7d488bb9.css.map",
+    "main.deaebba2.js.map": "/FastFood-LandingPage/static/js/main.deaebba2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d488bb9.css",
+    "static/js/main.deaebba2.js"
+  ]
+}
